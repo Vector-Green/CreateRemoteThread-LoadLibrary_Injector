@@ -16,6 +16,7 @@ This is a universal injector that allows you to inject some dll into some applic
 It is only a development tool and **you are responsible for it's use**.
 ### PS:
 Some non-professional anti-cheats block applications by it's hash – you know what to do 😘 —
-*Please don't use my code to harm others*(❁´◡`❁)
+*Please don't use my code to harm others*
+(❁´◡`❁)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
